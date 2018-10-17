@@ -1,0 +1,3 @@
+[submodule "testproject"]
+	path = testproject
+	url = https://gitlab.com/solomonrajkumar/testproject.git
