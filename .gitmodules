@@ -1,3 +1,6 @@
 [submodule "testproject"]
 	path = testproject
 	url = https://gitlab.com/solomonrajkumar/testproject.git
+[submodule "testproject2"]
+	path = testproject2
+	url = git@gitlab.com:solomonrajkumar/testproject2.git
